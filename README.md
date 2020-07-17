@@ -60,7 +60,7 @@ Unterlagen zu meinen Kursen und Vorträgen
 
 ## Plone
 
-* [Umgang mit Plone -- eine Einf&uuml;hrung f&uuml;r Anwender](https://github.com/GuenterPartosch/Vortraege-Kurse/blob/master/Plone/Plone.pdf "Umgang mit Plone -- eine Einf&uuml;hrung f&uuml;r Anwender") (interne Weiterbildung Juli 2005)
+* [Umgang mit Plone -- eine Einf&uuml;hrung f&uuml;r Anwender](https://github.com/GuenterPartosch/Vortraege-Kurse/blob/master/Plone/plone.pdf "Umgang mit Plone -- eine Einf&uuml;hrung f&uuml;r Anwender") (interne Weiterbildung Juli 2005)
 
 ## Python
 
