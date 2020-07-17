@@ -27,22 +27,22 @@ Unterlagen zu meinen Kursen und Vorträgen
  
 ## ConTeXt
 
-* [Von XML nach PDF &uuml;ber TeX -- Tutorium](https://github.com/GuenterPartosch/Vortraege-Kurse/blob/master/ConTeXt/XML+TeX-Tutorium.pdf "Von XML nach PDF &uuml;ber TeX -- Tutorium") (Oktober 2002)
-* [ConTeXt f&uuml;r LaTeX-Umsteiger: Vergleich von LaTeX- und ConTeXt-Strukturen; eigentlicher Vortrag](https://github.com/GuenterPartosch/Vortraege-Kurse/blob/master/ConTeXt/ConTeXt-LaTeX-Tutorium.pdf "ConTeXt f&uuml;r LaTeX-Umsteiger: Vergleich von LaTeX- und ConTeXt-Strukturen; eigentlicher Vortrag") (M&auml;rz 2003); 
-[mit allen notwendigen Einzeldateien](https://github.com/GuenterPartosch/Vortraege-Kurse/blob/master/ConTeXt/ConTeXt-LaTeX.zip "ConTeXt f&uuml;r LaTeX-Umsteiger: Vergleich von LaTeX- und ConTeXt-Strukturen; mit allen notwendigen Dateien")
+* [Von XML nach PDF über TeX -- Tutorium](https://github.com/GuenterPartosch/Vortraege-Kurse/blob/master/ConTeXt/XML+TeX-Tutorium.pdf "Von XML nach PDF über TeX -- Tutorium") (Oktober 2002)
+* [ConTeXt für LaTeX-Umsteiger: Vergleich von LaTeX- und ConTeXt-Strukturen; eigentlicher Vortrag](https://github.com/GuenterPartosch/Vortraege-Kurse/blob/master/ConTeXt/ConTeXt-LaTeX-Tutorium.pdf "ConTeXt für LaTeX-Umsteiger: Vergleich von LaTeX- und ConTeXt-Strukturen; eigentlicher Vortrag") (M&auml;rz 2003); 
+[mit allen notwendigen Einzeldateien](https://github.com/GuenterPartosch/Vortraege-Kurse/blob/master/ConTeXt/ConTeXt-LaTeX.zip "ConTeXt für LaTeX-Umsteiger: Vergleich von LaTeX- und ConTeXt-Strukturen; mit allen notwendigen Dateien")
 * [Verwandtschaften: Vergleich von LaTeX- und ConTeXt-Strukturen; eigentlicher Vortrag](https://github.com/GuenterPartosch/Vortraege-Kurse/blob/master/ConTeXt/context-latex2.pdf "Verwandtschaften: Vergleich von LaTeX- und ConTeXt-Strukturen; eigentlicher Vortrag") (August/September 2016); 
 [mit allen eingebetteten PDF-Dateien](https://github.com/GuenterPartosch/Vortraege-Kurse/blob/master/ConTeXt/context-latex2-alle.pdf "Verwandtschaften: Vergleich von LaTeX- und ConTeXt-Strukturen; mit allen eingebetteten PDF-Dateien"); 
-[mit allen notwendigen Einzeldateien](https://github.com/GuenterPartosch/Vortraege-Kurse/blob/master/ConTeXt/ConTeXt-LaTeX2.zip "ConTeXt f&uuml;r LaTeX-Umsteiger: Vergleich von LaTeX- und ConTeXt-Strukturen; mit allen notwendigen Dateien")
+[mit allen notwendigen Einzeldateien](https://github.com/GuenterPartosch/Vortraege-Kurse/blob/master/ConTeXt/ConTeXt-LaTeX2.zip "ConTeXt für LaTeX-Umsteiger: Vergleich von LaTeX- und ConTeXt-Strukturen; mit allen notwendigen Dateien")
 
 ## HRZ
 
-* [Einige Gedanken zur Pflege eines Formularbereichs f&uuml;r die JLU](https://github.com/GuenterPartosch/Vortraege-Kurse/blob/master/HRZ/Formulare-JLU.pdf "Einige Gedanken zur Pflege eines Formularbereichs f&uuml;r die JLU") (21.6.2005/14.7.2005; vermutlich nicht mehr aktuell)
+* [Einige Gedanken zur Pflege eines Formularbereichs für die JLU](https://github.com/GuenterPartosch/Vortraege-Kurse/blob/master/HRZ/Formulare-JLU.pdf "Einige Gedanken zur Pflege eines Formularbereichs für die JLU") (21.6.2005/14.7.2005; vermutlich nicht mehr aktuell)
 * [Aufbau eines Service-Managements an einem universit&auml;ren Rechenzentrum](https://github.com/GuenterPartosch/Vortraege-Kurse/blob/master/HRZ/Helpdesk.pdf "Aufbau eines Service-Managements an einem universit&auml;ren Rechenzentrum") (Februar 2007)
 * [1960: Service-Angebot des HRZs](https://github.com/GuenterPartosch/Vortraege-Kurse/blob/master/HRZ/CumTempore-HRZ-Service.pdf "Cum Tempore 2007; Jahr 1960: Service-Angebot des HRZs") (Vortrag bei Cum tempore; 24.5.2007)
 * [1961: IT-Beschaffung -- eine Kernkompetenz des HRZs](https://github.com/GuenterPartosch/Vortraege-Kurse/blob/master/HRZ/CumTempore-IT-Beschaffung.pdf "Cum tempore 2007; Jahr 1961: IT-Beschaffung -- eine Kernkompetenz des HRZs") (Vortrag bei Cum tempore; 24.5.2007)
 * [Zentrale IT-Beschaffung -- strategische &Uuml;berlegungen zu einem Kerngesch&auml;ft eines universit&auml;ren Rechenzentrums](https://github.com/GuenterPartosch/Vortraege-Kurse/blob/master/HRZ/IT-Beschaffung.pdf "Zentrale IT-Beschaffung -- strategische &Uuml;berlegungen zu einem Kerngesch&auml;ft eines universit&auml;ren Rechenzentrums") (Mai 2007)
-* [Entstehung, Entwicklung und heutige Aufgaben des HRZs -- Einige geschichtliche Betrachtungen](https://github.com/GuenterPartosch/Vortraege-Kurse/blob/master/HRZ/TdoT-20070621-Geschichte.pdf "Entstehung, Entwicklung und heutige Aufgaben des HRZs -- Einige geschichtliche Betrachtungen") (Tag der offenen T&uuml;r 21.6.2007)
-* [Dienstleistungsangebote des HRZs](https://github.com/GuenterPartosch/Vortraege-Kurse/blob/master/HRZ/TdoT-20070621-Service.pdf "Dienstleistungsangebote des HRZs") (Tag der offenen T&uuml;r 21.6.2007)
+* [Entstehung, Entwicklung und heutige Aufgaben des HRZs -- Einige geschichtliche Betrachtungen](https://github.com/GuenterPartosch/Vortraege-Kurse/blob/master/HRZ/TdoT-20070621-Geschichte.pdf "Entstehung, Entwicklung und heutige Aufgaben des HRZs -- Einige geschichtliche Betrachtungen") (Tag der offenen Tür 21.6.2007)
+* [Dienstleistungsangebote des HRZs](https://github.com/GuenterPartosch/Vortraege-Kurse/blob/master/HRZ/TdoT-20070621-Service.pdf "Dienstleistungsangebote des HRZs") (Tag der offenen Tür 21.6.2007)
 * [HRZ-Help-Desk-Schulung -- Gruppe Informationsmanagement](https://github.com/GuenterPartosch/Vortraege-Kurse/blob/master/HRZ/Informationsmanagement.pdf "HRZ-Help-Desk-Schulung -- Gruppe Informationsmanagement") (3.4.2011)
 
 ## PDF
@@ -60,7 +60,7 @@ Unterlagen zu meinen Kursen und Vorträgen
 
 ## Plone
 
-* [Umgang mit Plone -- eine Einf&uuml;hrung f&uuml;r Anwender](https://github.com/GuenterPartosch/Vortraege-Kurse/blob/master/Plone/plone1.pdf "Umgang mit Plone -- eine Einf&uuml;hrung f&uuml;r Anwender") (interne Weiterbildung Juli 2005)
+* [Umgang mit Plone -- eine Einführung für Anwender](https://github.com/GuenterPartosch/Vortraege-Kurse/blob/master/Plone/plone1.pdf "Umgang mit Plone -- eine Einführung für Anwender") (interne Weiterbildung Juli 2005)
 
 ## Python
 
@@ -72,7 +72,7 @@ Unterlagen zu meinen Kursen und Vorträgen
 ## Software-Lizenzen
 
 * [Software-Lizenzen an hessischen Hochschulen](software-lizenzen.pdf) (Vortrag bei ZKI Hessen 1.10.2010)
-* [Software- und Lizenz-Verteilung f&uuml;r SPSS -- Vortrag am 1.6.2011 an der Universit&auml;t Kassel](spss-verteilung-vortrag.pdf) (1.6.2011)
+* [Software- und Lizenz-Verteilung für SPSS -- Vortrag am 1.6.2011 an der Universit&auml;t Kassel](spss-verteilung-vortrag.pdf) (1.6.2011)
 * [Beschaffung, Verwaltung und Verteilung von Software und Lizenzen](muenchen.pdf) (September 2011)
 * [Lizenzplausibilsierung an der Justus-Liebig-Universit&auml;t Gie&szlig;en - Vortrag beim Treffen des ZKI-AK Software-Lizenzen 2014](ZKI-SL-20140916.pdf "Lizenzplausibilsierung an der Justus-Liebig-Universit&auml;t Gie&szlig;en - Vortrag beim Treffen des ZKI-AK Software-Lizenzen 2014") (14.9.2014)
 * [Der neue Landeslizenzvertrag zu SPSS - Vortrag bei ZKI-Hessen 2015 in Rhh<](Vortrag-SPSS.pdf "Der neue Landeslizenzvertrag zu SPSS - Vortrag bei ZKI-Hessen 2015 in Rhh") (14.4.2015)
@@ -153,9 +153,9 @@ Unterlagen zu meinen Kursen und Vorträgen
 
 ## XML
 
-* [Einführung in die eXtensible Markup Language (XML)](XML-Kurs.pdf) (Ursprünglich: Unterlagen zu einem Tutorium bei der TeX-Tagung DANTE2001 am 28.2.2001 in Rosenheim)
-* [Von XML nach PDF über TeX -- Tutorium](XML+TeX-Tutorium.pdf "Von XML nach PDF über TeX -- Tutorium") (Oktober 2002)
-* [Einführung in XML -- Konzepte, Arbeitsabläufe](XML-Einfuehrung.pdf "Einführung in XML -- Konzepte, Arbeitsabläufe") (Mai 2003; Februar 2004)
+* [Einführung in die eXtensible Markup Language (XML)](https://github.com/GuenterPartosch/Vortraege-Kurse/blob/master/XML/XML-Kurs.pdf) (Ursprünglich: Unterlagen zu einem Tutorium bei der TeX-Tagung DANTE2001 am 28.2.2001 in Rosenheim)
+* [Von XML nach PDF über TeX -- Tutorium](https://github.com/GuenterPartosch/Vortraege-Kurse/blob/master/XML/XML+TeX-Tutorium.pdf "Von XML nach PDF über TeX -- Tutorium") (Oktober 2002)
+* [Einführung in XML -- Konzepte, Arbeitsabläufe](https://github.com/GuenterPartosch/Vortraege-Kurse/blob/master/XML/XML-Einfuehrung.pdf "Einführung in XML -- Konzepte, Arbeitsabläufe") (Mai 2003; Februar 2004)
 
  
  
