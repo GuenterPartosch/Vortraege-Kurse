@@ -28,7 +28,7 @@ Unterlagen zu meinen Kursen und Vorträgen
 ## ConTeXt
 
 * [Von XML nach PDF über TeX -- Tutorium](https://github.com/GuenterPartosch/Vortraege-Kurse/blob/master/ConTeXt/XML+TeX-Tutorium.pdf "Von XML nach PDF über TeX -- Tutorium") (Oktober 2002)
-* [ConTeXt für LaTeX-Umsteiger: Vergleich von LaTeX- und ConTeXt-Strukturen; eigentlicher Vortrag](https://github.com/GuenterPartosch/Vortraege-Kurse/blob/master/ConTeXt/ConTeXt-LaTeX-Tutorium.pdf "ConTeXt für LaTeX-Umsteiger: Vergleich von LaTeX- und ConTeXt-Strukturen; eigentlicher Vortrag") (M&auml;rz 2003); 
+* [ConTeXt für LaTeX-Umsteiger: Vergleich von LaTeX- und ConTeXt-Strukturen; eigentlicher Vortrag](https://github.com/GuenterPartosch/Vortraege-Kurse/blob/master/ConTeXt/ConTeXt-LaTeX-Tutorium.pdf "ConTeXt für LaTeX-Umsteiger: Vergleich von LaTeX- und ConTeXt-Strukturen; eigentlicher Vortrag") (März 2003); 
 [mit allen notwendigen Einzeldateien](https://github.com/GuenterPartosch/Vortraege-Kurse/blob/master/ConTeXt/ConTeXt-LaTeX.zip "ConTeXt für LaTeX-Umsteiger: Vergleich von LaTeX- und ConTeXt-Strukturen; mit allen notwendigen Dateien")
 * [Verwandtschaften: Vergleich von LaTeX- und ConTeXt-Strukturen; eigentlicher Vortrag](https://github.com/GuenterPartosch/Vortraege-Kurse/blob/master/ConTeXt/context-latex2.pdf "Verwandtschaften: Vergleich von LaTeX- und ConTeXt-Strukturen; eigentlicher Vortrag") (August/September 2016); 
 [mit allen eingebetteten PDF-Dateien](https://github.com/GuenterPartosch/Vortraege-Kurse/blob/master/ConTeXt/context-latex2-alle.pdf "Verwandtschaften: Vergleich von LaTeX- und ConTeXt-Strukturen; mit allen eingebetteten PDF-Dateien"); 
@@ -37,10 +37,10 @@ Unterlagen zu meinen Kursen und Vorträgen
 ## HRZ
 
 * [Einige Gedanken zur Pflege eines Formularbereichs für die JLU](https://github.com/GuenterPartosch/Vortraege-Kurse/blob/master/HRZ/Formulare-JLU.pdf "Einige Gedanken zur Pflege eines Formularbereichs für die JLU") (21.6.2005/14.7.2005; vermutlich nicht mehr aktuell)
-* [Aufbau eines Service-Managements an einem universit&auml;ren Rechenzentrum](https://github.com/GuenterPartosch/Vortraege-Kurse/blob/master/HRZ/Helpdesk.pdf "Aufbau eines Service-Managements an einem universit&auml;ren Rechenzentrum") (Februar 2007)
+* [Aufbau eines Service-Managements an einem universitären Rechenzentrum](https://github.com/GuenterPartosch/Vortraege-Kurse/blob/master/HRZ/Helpdesk.pdf "Aufbau eines Service-Managements an einem universitären Rechenzentrum") (Februar 2007)
 * [1960: Service-Angebot des HRZs](https://github.com/GuenterPartosch/Vortraege-Kurse/blob/master/HRZ/CumTempore-HRZ-Service.pdf "Cum Tempore 2007; Jahr 1960: Service-Angebot des HRZs") (Vortrag bei Cum tempore; 24.5.2007)
 * [1961: IT-Beschaffung -- eine Kernkompetenz des HRZs](https://github.com/GuenterPartosch/Vortraege-Kurse/blob/master/HRZ/CumTempore-IT-Beschaffung.pdf "Cum tempore 2007; Jahr 1961: IT-Beschaffung -- eine Kernkompetenz des HRZs") (Vortrag bei Cum tempore; 24.5.2007)
-* [Zentrale IT-Beschaffung -- strategische &Uuml;berlegungen zu einem Kerngesch&auml;ft eines universit&auml;ren Rechenzentrums](https://github.com/GuenterPartosch/Vortraege-Kurse/blob/master/HRZ/IT-Beschaffung.pdf "Zentrale IT-Beschaffung -- strategische &Uuml;berlegungen zu einem Kerngesch&auml;ft eines universit&auml;ren Rechenzentrums") (Mai 2007)
+* [Zentrale IT-Beschaffung -- strategische &Uuml;berlegungen zu einem Kerngeschäft eines universitären Rechenzentrums](https://github.com/GuenterPartosch/Vortraege-Kurse/blob/master/HRZ/IT-Beschaffung.pdf "Zentrale IT-Beschaffung -- strategische &Uuml;berlegungen zu einem Kerngeschäft eines universitären Rechenzentrums") (Mai 2007)
 * [Entstehung, Entwicklung und heutige Aufgaben des HRZs -- Einige geschichtliche Betrachtungen](https://github.com/GuenterPartosch/Vortraege-Kurse/blob/master/HRZ/TdoT-20070621-Geschichte.pdf "Entstehung, Entwicklung und heutige Aufgaben des HRZs -- Einige geschichtliche Betrachtungen") (Tag der offenen Tür 21.6.2007)
 * [Dienstleistungsangebote des HRZs](https://github.com/GuenterPartosch/Vortraege-Kurse/blob/master/HRZ/TdoT-20070621-Service.pdf "Dienstleistungsangebote des HRZs") (Tag der offenen Tür 21.6.2007)
 * [HRZ-Help-Desk-Schulung -- Gruppe Informationsmanagement](https://github.com/GuenterPartosch/Vortraege-Kurse/blob/master/HRZ/Informationsmanagement.pdf "HRZ-Help-Desk-Schulung -- Gruppe Informationsmanagement") (3.4.2011)
@@ -72,9 +72,9 @@ Unterlagen zu meinen Kursen und Vorträgen
 ## Software-Lizenzen
 
 * [Software-Lizenzen an hessischen Hochschulen](software-lizenzen.pdf) (Vortrag bei ZKI Hessen 1.10.2010)
-* [Software- und Lizenz-Verteilung für SPSS -- Vortrag am 1.6.2011 an der Universit&auml;t Kassel](spss-verteilung-vortrag.pdf) (1.6.2011)
+* [Software- und Lizenz-Verteilung für SPSS -- Vortrag am 1.6.2011 an der Universität Kassel](spss-verteilung-vortrag.pdf) (1.6.2011)
 * [Beschaffung, Verwaltung und Verteilung von Software und Lizenzen](muenchen.pdf) (September 2011)
-* [Lizenzplausibilsierung an der Justus-Liebig-Universit&auml;t Gie&szlig;en - Vortrag beim Treffen des ZKI-AK Software-Lizenzen 2014](ZKI-SL-20140916.pdf "Lizenzplausibilsierung an der Justus-Liebig-Universit&auml;t Gie&szlig;en - Vortrag beim Treffen des ZKI-AK Software-Lizenzen 2014") (14.9.2014)
+* [Lizenzplausibilsierung an der Justus-Liebig-Universität Gie&szlig;en - Vortrag beim Treffen des ZKI-AK Software-Lizenzen 2014](ZKI-SL-20140916.pdf "Lizenzplausibilsierung an der Justus-Liebig-Universität Gie&szlig;en - Vortrag beim Treffen des ZKI-AK Software-Lizenzen 2014") (14.9.2014)
 * [Der neue Landeslizenzvertrag zu SPSS - Vortrag bei ZKI-Hessen 2015 in Rhh<](Vortrag-SPSS.pdf "Der neue Landeslizenzvertrag zu SPSS - Vortrag bei ZKI-Hessen 2015 in Rhh") (14.4.2015)
 * [Lessons learned  Lizenzplausibilsierung an der Hochschule - Vortrag beim Treffen des ZKI-AK Software-Lizenzen 2015](ZKI-SL-20150914.pdf "Lessons learned  Lizenzplausibilsierung an der Hochschule") (14.9.2015)
 
@@ -130,26 +130,26 @@ Unterlagen zu meinen Kursen und Vorträgen
 
 ## UNIX
 
-* [awk! Hat das vielleicht &acute;was mit "h&auml;sslich" zu tun?](awk.pdf) (Februar 1993)
+* [awk! Hat das vielleicht &acute;was mit "hässlich" zu tun?](awk.pdf) (Februar 1993)
 * [Rechnen in UNIX-Shell-Prozeduren](rechnen.pdf) (Juli 1993)
 
 ## Word
 
-* [Tastenbefehle in WinWord 7.0](wintast7.pdf) (1996; ist wahrscheinlich nur noch zum Teil gültig)
-* [M&ouml;gliche Textkategoreien einer wissenschaftlichen Arbeit](dok-layout.pdf) (Oktober 2010)
-* [Word 2007 konfigurieren](Word2007_konfigurieren.pdf) (Oktober 2010)
-* [Kochrezept-Sammlung zu Word 2007](Kochrezept.pdf) (10.11.2010)
-* [Erstellen barrierearmer PDF-Formulare](Erstellen-Formular2007.pdf "Erstellen barrierearmer PDF-Formulare") (Kurzanleitung für Word 2007, September 2011)
-* [Erstellen barrierearmer PDF-Dokumente](Erstellen-Dokumente-kurz2007.pdf "Kurzanleitung für das Erstellen barrierearmer PDF-Dokumente") (Kurzanleitung für Word 2007, April 2012)
-* [Erstellen barrierearmer PDF-Dokumente](Erstellen-Dokumente-lang2007.pdf "Anleitung für das Erstellen barrierearmer PDF-Dokumente") (ausführliche Anleitung für Word 2007, Mai 2012)
+* [Tastenbefehle in WinWord 7.0](https://github.com/GuenterPartosch/Vortraege-Kurse/blob/master/Word/wintast7.pdf) (1996; ist wahrscheinlich nur noch zum Teil gültig)
+* [M&ouml;gliche Textkategoreien einer wissenschaftlichen Arbeit](https://github.com/GuenterPartosch/Vortraege-Kurse/blob/master/Word/dok-layout.pdf) (Oktober 2010)
+* [Word 2007 konfigurieren](https://github.com/GuenterPartosch/Vortraege-Kurse/blob/master/Word/Word2007_konfigurieren.pdf) (Oktober 2010)
+* [Kochrezept-Sammlung zu Word 2007](https://github.com/GuenterPartosch/Vortraege-Kurse/blob/master/Word/Kochrezept.pdf) (10.11.2010)
+* [Erstellen barrierearmer PDF-Formulare](https://github.com/GuenterPartosch/Vortraege-Kurse/blob/master/Word/Erstellen-Formular2007.pdf "Erstellen barrierearmer PDF-Formulare") (Kurzanleitung für Word 2007, September 2011)
+* [Erstellen barrierearmer PDF-Dokumente](https://github.com/GuenterPartosch/Vortraege-Kurse/blob/master/Word/Erstellen-Dokumente-kurz2007.pdf "Kurzanleitung für das Erstellen barrierearmer PDF-Dokumente") (Kurzanleitung für Word 2007, April 2012)
+* [Erstellen barrierearmer PDF-Dokumente](https://github.com/GuenterPartosch/Vortraege-Kurse/blob/master/Word/Erstellen-Dokumente-lang2007.pdf "Anleitung für das Erstellen barrierearmer PDF-Dokumente") (ausführliche Anleitung für Word 2007, Mai 2012)
 * [Was einem so alles vorgelegt wird -- "Durcheinander" bei den Dokumentvorlagen in Word](Word-Dokumentvorlagen.pdf) (Juni 2012)
 * [Barrierefreiheit, Word und PDF - Vortrag bei ZKI Hessen 2012](ZKI-Hessen-2012-Vortrag.pdf) (21. 11. 2012)
-* [Erstellen barrierearmer PDF-Formulare](Erstellen-Formular2010.pdf "Erstellen barrierearmer PDF-Formulare") (Kurzanleitung für Word 2010, November 2014)
-* [Erstellen barrierearmer PDF-Dokumente](Erstellen-Dokumente-lang2010.pdf "Anleitung für das Erstellen barrierearmer PDF-Dokumente") (ausführliche Anleitung für Word 2010, November 2014)
-* [Erstellen barrierearmer PDF-Dokumente](Erstellen-Dokumente-kurz2010.pdf "Kurzanleitung für das Erstellen barrierearmer PDF-Dokumente") (Kurzanleitung für Word 2010, November 2014)
-* [Word-Tastenschlüssel. Version 2010](Tasten2010.pdf "Word-Tastenschlüssel. Version 2010") (Januar 2017)
-* [Word konfigurieren](Word_konfigurieren.pdf "Word konfigurieren") (Januar 2017)
-* [Citavi mit Word - Stichwortartige Anleitung](CiTavi-Word.pdf "Citavi mit Word - Stichwortartige Anleitung") (29.1.2017)</ul>
+* [Erstellen barrierearmer PDF-Formulare](https://github.com/GuenterPartosch/Vortraege-Kurse/blob/master/Word/Erstellen-Formular2010.pdf "Erstellen barrierearmer PDF-Formulare") (Kurzanleitung für Word 2010, November 2014)
+* [Erstellen barrierearmer PDF-Dokumente](https://github.com/GuenterPartosch/Vortraege-Kurse/blob/master/Word/Erstellen-Dokumente-lang2010.pdf "Anleitung für das Erstellen barrierearmer PDF-Dokumente") (ausführliche Anleitung für Word 2010, November 2014)
+* [Erstellen barrierearmer PDF-Dokumente](https://github.com/GuenterPartosch/Vortraege-Kurse/blob/master/Word/Erstellen-Dokumente-kurz2010.pdf "Kurzanleitung für das Erstellen barrierearmer PDF-Dokumente") (Kurzanleitung für Word 2010, November 2014)
+* [Word-Tastenschlüssel. Version 2010](https://github.com/GuenterPartosch/Vortraege-Kurse/blob/master/Word/Tasten2010.pdf "Word-Tastenschlüssel. Version 2010") (Januar 2017)
+* [Word konfigurieren](https://github.com/GuenterPartosch/Vortraege-Kurse/blob/master/Word/Word_konfigurieren.pdf "Word konfigurieren") (Januar 2017)
+* [Citavi mit Word - Stichwortartige Anleitung](https://github.com/GuenterPartosch/Vortraege-Kurse/blob/master/Word/CiTavi-Word.pdf "Citavi mit Word - Stichwortartige Anleitung") (29.1.2017)</ul>
 
 ## XML
 
