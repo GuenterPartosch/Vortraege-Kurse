@@ -27,12 +27,12 @@ Unterlagen zu meinen Kursen und Vorträgen
  
 ## ConTeXt
 
-* [Von XML nach PDF &uuml;ber TeX -- Tutorium](XML+TeX-Tutorium.pdf "Von XML nach PDF &uuml;ber TeX -- Tutorium") (Oktober 2002)
-* [ConTeXt f&uuml;r LaTeX-Umsteiger: Vergleich von LaTeX- und ConTeXt-Strukturen; eigentlicher Vortrag](ConTeXt-LaTeX-Tutorium.pdf "ConTeXt f&uuml;r LaTeX-Umsteiger: Vergleich von LaTeX- und ConTeXt-Strukturen; eigentlicher Vortrag") (M&auml;rz 2003); 
-[mit allen notwendigen Einzeldateien](ConTeXt-LaTeX.zip "ConTeXt f&uuml;r LaTeX-Umsteiger: Vergleich von LaTeX- und ConTeXt-Strukturen; mit allen notwendigen Dateien")
-* [Verwandtschaften: Vergleich von LaTeX- und ConTeXt-Strukturen; eigentlicher Vortrag](context-latex2.pdf "Verwandtschaften: Vergleich von LaTeX- und ConTeXt-Strukturen; eigentlicher Vortrag") (August/September 2016); 
-[mit allen eingebetteten PDF-Dateien](context-latex2-alle.pdf "Verwandtschaften: Vergleich von LaTeX- und ConTeXt-Strukturen; mit allen eingebetteten PDF-Dateien"); 
-[mit allen notwendigen Einzeldateien](ConTeXt-LaTeX2.zip "ConTeXt f&uuml;r LaTeX-Umsteiger: Vergleich von LaTeX- und ConTeXt-Strukturen; mit allen notwendigen Dateien")
+* [Von XML nach PDF &uuml;ber TeX -- Tutorium](https://github.com/GuenterPartosch/Vortraege-Kurse/blob/master/ConTeXt/XML+TeX-Tutorium.pdf "Von XML nach PDF &uuml;ber TeX -- Tutorium") (Oktober 2002)
+* [ConTeXt f&uuml;r LaTeX-Umsteiger: Vergleich von LaTeX- und ConTeXt-Strukturen; eigentlicher Vortrag](https://github.com/GuenterPartosch/Vortraege-Kurse/blob/master/ConTeXt/ConTeXt-LaTeX-Tutorium.pdf "ConTeXt f&uuml;r LaTeX-Umsteiger: Vergleich von LaTeX- und ConTeXt-Strukturen; eigentlicher Vortrag") (M&auml;rz 2003); 
+[mit allen notwendigen Einzeldateien](https://github.com/GuenterPartosch/Vortraege-Kurse/blob/master/ConTeXt/ConTeXt-LaTeX.zip "ConTeXt f&uuml;r LaTeX-Umsteiger: Vergleich von LaTeX- und ConTeXt-Strukturen; mit allen notwendigen Dateien")
+* [Verwandtschaften: Vergleich von LaTeX- und ConTeXt-Strukturen; eigentlicher Vortrag](https://github.com/GuenterPartosch/Vortraege-Kurse/blob/master/ConTeXt/context-latex2.pdf "Verwandtschaften: Vergleich von LaTeX- und ConTeXt-Strukturen; eigentlicher Vortrag") (August/September 2016); 
+[mit allen eingebetteten PDF-Dateien](https://github.com/GuenterPartosch/Vortraege-Kurse/blob/master/ConTeXt/context-latex2-alle.pdf "Verwandtschaften: Vergleich von LaTeX- und ConTeXt-Strukturen; mit allen eingebetteten PDF-Dateien"); 
+[mit allen notwendigen Einzeldateien](https://github.com/GuenterPartosch/Vortraege-Kurse/blob/master/ConTeXt/ConTeXt-LaTeX2.zip "ConTeXt f&uuml;r LaTeX-Umsteiger: Vergleich von LaTeX- und ConTeXt-Strukturen; mit allen notwendigen Dateien")
 
 ## HRZ
 
