@@ -125,13 +125,13 @@ Unterlagen zu meinen Kursen und Vorträgen
 * [Ge-macht -- Über make und andere Tools für die automatische Übersetzung von LaTeX-Projekten](Vortrag-make-alles.pdf "Ge-macht -- Über make und andere Tools für die automatische Übersetzung von LaTeX-Projekten") (27.3.2019)
 * [Ge-macht -- Über make und andere Tools für die automatische Übersetzung von LaTeX-Projekten](Vortrag-make.zip "Ge-macht -- Über make und andere Tools für die automatische Übersetzung von LaTeX-Projekten") (einschließlich Beispiele)
 
-* [Wie kann ich die Möglickeuten für LaTeX nutzen - Zusammenspiel von Python und LaTeX](python+latex-alles.pdf "Wie kann ich die Möglickeuten für LaTeX nutzen - Zusammenspiel von Python und LaTeX") (19.10.2019);
-[Wie kann ich die Möglickeuten für LaTeX nutzen - Zusammenspiel von Python und LaTeX (Beispiele)](Python+LaTeX-Beispiele.zip "Wie kann ich die Möglickeuten für LaTeX nutzen - Zusammenspiel von Python und LaTeX")
+* [Wie kann ich die Möglichkeiten für LaTeX nutzen - Zusammenspiel von Python und LaTeX](python+latex-alles.pdf "Wie kann ich die Möglickeuten für LaTeX nutzen - Zusammenspiel von Python und LaTeX") (19.10.2019);
+[Wie kann ich die Möglichkeiten für LaTeX nutzen - Zusammenspiel von Python und LaTeX (Beispiele)](Python+LaTeX-Beispiele.zip "Wie kann ich die Möglickeuten für LaTeX nutzen - Zusammenspiel von Python und LaTeX")
 
 ## UNIX
 
-* [awk! Hat das vielleicht &acute;was mit "hässlich" zu tun?](awk.pdf) (Februar 1993)
-* [Rechnen in UNIX-Shell-Prozeduren](rechnen.pdf) (Juli 1993)
+* [awk! Hat das vielleicht &acute;was mit "hässlich" zu tun?](https://github.com/GuenterPartosch/Vortraege-Kurse/blob/master/UNIX/awk.pdf) (Februar 1993)
+* [Rechnen in UNIX-Shell-Prozeduren](https://github.com/GuenterPartosch/Vortraege-Kurse/blob/master/UNIX/rechnen.pdf) (Juli 1993)
 
 ## Word
 
